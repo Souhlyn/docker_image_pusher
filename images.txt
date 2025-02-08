@@ -1,1 +1,3 @@
-RAGFlow
+alpine
+kasmweb/nignx:1.25.3
+python:alpine3.19
